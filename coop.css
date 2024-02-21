@@ -93,9 +93,10 @@ body{
     margin-bottom: 100px;
 }
 .content2 h2 {
-    margin-left: 230px;
+    margin-left: 150px;
     /* margin-bottom: 200px; */
     margin-top: 200px;
+    font-size: 40px;
 
 }
 .parag h2{
@@ -186,7 +187,7 @@ footer{
 }
 #insta{
     width: 50px;
-    height: 50px;
+    height: 50px;c
 }
 .final{
     background-color: black;
@@ -201,4 +202,9 @@ footer{
 }
 #codes{
     margin-left: 170px;
+}
+span{
+    color: green;
+  
+    
 }
